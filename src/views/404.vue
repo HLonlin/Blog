@@ -91,7 +91,7 @@
   .NotPage {
     position: relative;
     z-index: -10;
-    background: #000;
+    background: #282828;
     height: 100vh;
     overflow: hidden;
     display: flex;
